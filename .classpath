@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/cv97r140.jar"/>
+	<classpathentry kind="lib" path="lib/j3dcore.jar"/>
+	<classpathentry kind="lib" path="lib/j3dutils.jar"/>
+	<classpathentry kind="lib" path="lib/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="lib/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="lib/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="lib/jndi.jar"/>
+	<classpathentry kind="lib" path="lib/jta.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/naming-common.jar"/>
+	<classpathentry kind="lib" path="lib/naming-factory.jar"/>
+	<classpathentry kind="lib" path="lib/naming-resources.jar"/>
+	<classpathentry kind="lib" path="lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/tools.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
